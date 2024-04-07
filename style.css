@@ -9,6 +9,8 @@
 
 .universo-imagem {
     width: 25%;
+    display: flex;
+    justify-content: space-around;
     align-items: center;
     padding: 20px 0;
 }
