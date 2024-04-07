@@ -1,5 +1,5 @@
 .cabeçalho {
-    background-color: purple;
+    background-color: rgb(255, 253, 255);
     color: white;
     display: flex;
     justify-content: space-around;
@@ -11,5 +11,5 @@
     width: 25%;
 }
 
-.universo {background-color: purple;}
+.universo {background-color: rgb(255, 255, 255);}
 
