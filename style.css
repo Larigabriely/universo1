@@ -1,10 +1,6 @@
 .cabeçalho {
-    background-color: #424e61;
+    background-image: -o-linear-gradient(rgb(22, 20, 20),rgb(60, 60, 146),rgb(124, 43, 124));
     color: white
-    display: inline-block;
-    justify-content: space-around;
-    align-items: center;
-    padding: 24px 0;
 }
 
 .universo-imagem {
