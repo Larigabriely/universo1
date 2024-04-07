@@ -1,6 +1,9 @@
 .cabeçalho {
     background-color:rgb(189, 146, 146);
     color: white
+    display: flex 
+    justify-content: space-around;
+    align-items: center
     padding: 25% 0;
     
 }
