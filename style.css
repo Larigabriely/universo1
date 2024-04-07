@@ -4,15 +4,13 @@
     display: flex;
     justify-content: space-around;
     align-items: center;
-    padding: 24px o;
+    padding: 50px o;
 }
 
 .cabeçalho-imagem {
     width: 25%;
 }
    
-.universo{
-    background-image: linear-gradient(#81638d, purple,rgb(89, 89, 180)  );
-}
+
 
 
