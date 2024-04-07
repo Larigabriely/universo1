@@ -9,6 +9,7 @@
 
 .cabeçalho-imagem {
     width: 25%;
+    align-items: self-end;
 }
    
 .universo-imagem {
